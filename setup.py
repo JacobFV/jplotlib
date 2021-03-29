@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Jacob Valdez",
+    name="jplotlib",
     version="1.0.0",
     author="Jacob Valdez",
     author_email="jacobfv@msn.com",
