@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="jplotlib",
-    version="1.0.1",
+    version="1.0.0",
     author="Jacob Valdez",
     author_email="jacobfv@msn.com",
     description="Simple plotting utilities",
