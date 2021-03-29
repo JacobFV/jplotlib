@@ -9,4 +9,4 @@ with jpl.GridPlot(width=20) as ig:
     for _ in range(50):
         ig.imshow(np.random.uniform(size=(100, 100, 3)))
 ```
-![output](content/images/grid_plot_example.png)
+![output](https://raw.githubusercontent.com/JacobFV/jplotlib/main/content/images/grid_plot_example.png)
