@@ -1,5 +1,11 @@
 # jplotlib
-quick plotting utilities
+Quick plotting utilities
+
+## Installing
+
+`$ pip install jplotlib`
+
+## Example
 
 ```python
 import numpy as np
